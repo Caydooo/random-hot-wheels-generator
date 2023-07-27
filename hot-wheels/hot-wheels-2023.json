@@ -1,0 +1,3994 @@
+{
+  "hw2023": [
+    {
+      "id": 1,
+      "toy": "HKG27",
+      "num": "001",
+      "model_name": "Volvo P1800 Gasser",
+      "series_name": "HW Dream Garage",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/68/Ain%27tNoSaint.jpg"
+    },
+    {
+      "id": 2,
+      "toy": "HKJ94",
+      "num": "001",
+      "model_name": "Volvo P1800 Gasser (2nd Color)",
+      "series_name": "HW Dream Garage",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 3,
+      "toy": "HKG79",
+      "num": "002",
+      "model_name": "'87 Ford Sierra Cosworth",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/45/HW-2023-002-1-HKG79-87_Ford_Sierra_Cosworth.png"
+    },
+    {
+      "id": 4,
+      "toy": "HKL51",
+      "num": "002",
+      "model_name": "'87 Ford Sierra Cosworth (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "Kroger Exclusive",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 5,
+      "toy": "HKJ59",
+      "num": "002",
+      "model_name": "'87 Ford Sierra Cosworth (3rd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/002_250.jpg"
+    },
+    {
+      "id": 6,
+      "toy": "HKG97",
+      "num": "003",
+      "model_name": "Classic TV Series Batmobile",
+      "series_name": "Batman",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/62/HW-2023-003-1-HKG97-Classic_TV_Series_Batmobile.png"
+    },
+    {
+      "id": 7,
+      "toy": "HKL16",
+      "num": "003",
+      "model_name": "Classic TV Series Batmobile",
+      "series_name": "Batman",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/STH_2023A_BATMOBILE.jpg"
+    },
+    {
+      "id": 8,
+      "toy": "HKJ72",
+      "num": "003",
+      "model_name": "Classic TV Series Batmobile (2nd Color)",
+      "series_name": "Batman",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/HKJ72.jpg"
+    },
+    {
+      "id": 9,
+      "toy": "HKG25",
+      "num": "004",
+      "model_name": "Ford Escort RS2000",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/X-PackEscort.jpg"
+    },
+    {
+      "id": 10,
+      "toy": "HKL43",
+      "num": "004",
+      "model_name": "Ford Escort RS2000 (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "New for 2023!Target Exclusive",
+      "series_no": "1/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 11,
+      "toy": "HKJ77",
+      "num": "004",
+      "model_name": "Ford Escort RS2000 (3rd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "1/10",
+      "photo": "h"
+    },
+    {
+      "id": 12,
+      "toy": "HKH03",
+      "num": "005",
+      "model_name": "Dimachinni Veloce",
+      "series_name": "Retro Racers",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/HKH03-LOOSE.jpg"
+    },
+    {
+      "id": 13,
+      "toy": "HKJ78",
+      "num": "005",
+      "model_name": "Dimachinni Veloce (2nd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/HKJ78-LOOSE.jpg"
+    },
+    {
+      "id": 14,
+      "toy": "HKH07",
+      "num": "006",
+      "model_name": "HW K.I.T.T. Concept",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/KARRConcept.jpg"
+    },
+    {
+      "id": 15,
+      "toy": "HKH15",
+      "num": "007",
+      "model_name": "Bricking Trails",
+      "series_name": "Brick Rides",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Bricking_Trails_2023.jpg"
+    },
+    {
+      "id": 16,
+      "toy": "HKJ85",
+      "num": "007",
+      "model_name": "Bricking Trails (2nd Color)",
+      "series_name": "Brick Rides",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/HKJ85.jpg"
+    },
+    {
+      "id": 17,
+      "toy": "HKG24",
+      "num": "008",
+      "model_name": "Dessert Drifter",
+      "series_name": "Sweet Rides",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/66/DessertDrifter.jpg"
+    },
+    {
+      "id": 18,
+      "toy": "HKJ90",
+      "num": "008",
+      "model_name": "Dessert Drifter (2nd Color)",
+      "series_name": "Sweet Rides",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/28/HKJ90.jpg"
+    },
+    {
+      "id": 19,
+      "toy": "HKH18",
+      "num": "009",
+      "model_name": "Sweet Driver",
+      "series_name": "Sweet Rides",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/24/HW-2023-009-1-HKH18-Sweet_Driver.png"
+    },
+    {
+      "id": 20,
+      "toy": "HKJ91",
+      "num": "009",
+      "model_name": "Sweet Driver (2nd Color)",
+      "series_name": "Sweet Rides",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/20230529_100356.jpg"
+    },
+    {
+      "id": 21,
+      "toy": "HKK98",
+      "num": "010",
+      "model_name": "Raijin Express",
+      "series_name": "HW Haulers",
+      "series_extra": "Treasure Hunt",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/RaijinHauler.jpg"
+    },
+    {
+      "id": 22,
+      "toy": "HKH24",
+      "num": "011",
+      "model_name": "Fast-Bed Hauler",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/25/HW-2023-011-1-HKH24-Fast-Bed_Hauler.png"
+    },
+    {
+      "id": 23,
+      "toy": "HKJ97",
+      "num": "011",
+      "model_name": "Fast-Bed Hauler (2nd Color)",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 24,
+      "toy": "HKH36",
+      "num": "012",
+      "model_name": "Roadster Bite",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/94/HW-2023-012-1-HKH36-Roadster_Bite.png"
+    },
+    {
+      "id": 25,
+      "toy": "HKK07",
+      "num": "012",
+      "model_name": "Roadster Bite (2nd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/ROADROSTER_BITE_%282DO_COLOR%29.jpg"
+    },
+    {
+      "id": 26,
+      "toy": "HKH37",
+      "num": "013",
+      "model_name": "'17 Pagani Huayra Roadster",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/25/HW_%2717_Pagani_Huayra_Roadster_%282023_-_HKH37%29.jpg"
+    },
+    {
+      "id": 27,
+      "toy": "HKL23",
+      "num": "013",
+      "model_name": "'17 Pagani Huayra Roadster (2nd Color - Zamac)",
+      "series_name": "HW Roadsters",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/07/Mainline_2023_%2717_Pagani_Huayra_Roadster_Zamac_Malaysia_HKL23.jpg"
+    },
+    {
+      "id": 28,
+      "toy": "HKK08",
+      "num": "013",
+      "model_name": "'17 Pagani Huayra Roadster (3rd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/74/HKK08.jpg"
+    },
+    {
+      "id": 29,
+      "toy": "HKH38",
+      "num": "014",
+      "model_name": "Corvette Grand Sport Roadster",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/15/HW-2023-014-1-HKH38-Corvette_Grand_Sport_Roadster.png"
+    },
+    {
+      "id": 30,
+      "toy": "HKL44",
+      "num": "014",
+      "model_name": "Corvette Grand Sport Roadster (2nd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "Kroger Exclusive",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/Corvette_kroger.jpg"
+    },
+    {
+      "id": 31,
+      "toy": "HKK09",
+      "num": "014",
+      "model_name": "Corvette Grand Sport Roadster (3rd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/20230529_100127.jpg"
+    },
+    {
+      "id": 32,
+      "toy": "HKH45",
+      "num": "015",
+      "model_name": "Track Manga",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/HW-2023-015-1-HKH45-Track_Manga.png"
+    },
+    {
+      "id": 33,
+      "toy": "HKK14",
+      "num": "015",
+      "model_name": "Track Manga (2nd Color)",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/78/HKK14.jpg"
+    },
+    {
+      "id": 34,
+      "toy": "HKK15",
+      "num": "015",
+      "model_name": "Track Manga (3rd Color)",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Track_Manga_%28Dark_Red%29.jpg"
+    },
+    {
+      "id": 35,
+      "toy": "HKH46",
+      "num": "016",
+      "model_name": "70s Van",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/HW-2023-016-1-HKH46-70s_Van.png"
+    },
+    {
+      "id": 36,
+      "toy": "HKL24",
+      "num": "016",
+      "model_name": "70s Van (2nd Color - Zamac)",
+      "series_name": "HW Art Cars",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/2045D7B7-96E0-480A-990B-EC363238FA31.jpg"
+    },
+    {
+      "id": 37,
+      "toy": "HKK16",
+      "num": "016",
+      "model_name": "70s Van (3rd Color)",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/05/HKK16.jpg"
+    },
+    {
+      "id": 38,
+      "toy": "HKH85",
+      "num": "017",
+      "model_name": "LB Super Silhouette Nissan Silvia (S15)",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/SilviaLibertyWalkBlack2023.jpg"
+    },
+    {
+      "id": 39,
+      "toy": "HKL52",
+      "num": "017",
+      "model_name": "LB Super Silhouette Nissan Silvia (S15) (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "2/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/22/RedEdLBSilvia.jpg"
+    },
+    {
+      "id": 40,
+      "toy": "HKK47",
+      "num": "017",
+      "model_name": "LB Super Silhouette Nissan Silvia (S15) (3rd Color)",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/75/LB_Super_Silhouette_Nissan_Silvia_%28S15%29_2023.jpg"
+    },
+    {
+      "id": 41,
+      "toy": "HKH83",
+      "num": "018",
+      "model_name": "1970 Pontiac Firebird",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/HW-2023-018-1-HKH83-1970_Pontiac_Firebird.png"
+    },
+    {
+      "id": 42,
+      "toy": "HKK48",
+      "num": "018",
+      "model_name": "1970 Pontiac Firebird (2nd Color)",
+      "series_name": "HW Modified",
+      "series_extra": "Kroger Exclusive",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 43,
+      "toy": "HKK49",
+      "num": "018",
+      "model_name": "1970 Pontiac Firebird (3rd Color)",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 44,
+      "toy": "HKH88",
+      "num": "019",
+      "model_name": "Airuption",
+      "series_name": "Sky Show",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/HW-2023-019-1-HKH88-Airuption.png"
+    },
+    {
+      "id": 45,
+      "toy": "HKK51",
+      "num": "019",
+      "model_name": "Airuption (2nd Color)",
+      "series_name": "Sky Show",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/HKK51.jpg"
+    },
+    {
+      "id": 46,
+      "toy": "HKG23",
+      "num": "020",
+      "model_name": "Nissan Patrol Custom",
+      "series_name": "HW J-Imports",
+      "series_extra": "New for 2023!",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/81/NissanPatrolCustom.jpg"
+    },
+    {
+      "id": 47,
+      "toy": "HKL46",
+      "num": "020",
+      "model_name": "Nissan Patrol Custom (2nd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "New for 2023!Kroger Exclusive",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Nissanpatrolcustomkrogerexclusive.jpg"
+    },
+    {
+      "id": 48,
+      "toy": "HKK61",
+      "num": "020",
+      "model_name": "Nissan Patrol Custom (3rd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "New for 2023!",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/NissanPatrol.jpg"
+    },
+    {
+      "id": 49,
+      "toy": "HKJ10",
+      "num": "021",
+      "model_name": "Subaru WRX STI",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/71/HW-2023-021-1-HKJ10-Subaru_WRX_STI.png"
+    },
+    {
+      "id": 50,
+      "toy": "HKK62",
+      "num": "021",
+      "model_name": "Subaru WRX STI (2nd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HKK62_-_LOOSE.jpg"
+    },
+    {
+      "id": 51,
+      "toy": "HKK63",
+      "num": "021",
+      "model_name": "Subaru WRX STI (3rd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 52,
+      "toy": "HKG26",
+      "num": "022",
+      "model_name": "Draggin' Wagon",
+      "series_name": "Experimotors",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/90/Draggin%27Wagon.jpg"
+    },
+    {
+      "id": 53,
+      "toy": "HKK71",
+      "num": "022",
+      "model_name": "Draggin' Wagon (2nd Color)",
+      "series_name": "Experimotors",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/HKK71.jpg"
+    },
+    {
+      "id": 54,
+      "toy": "HKJ26",
+      "num": "023",
+      "model_name": "Coupe Clip",
+      "series_name": "Experimotors",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/HKJ26-LOOSE.jpg"
+    },
+    {
+      "id": 55,
+      "toy": "HKK72",
+      "num": "023",
+      "model_name": "Coupe Clip (2nd Color)",
+      "series_name": "Experimotors",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 56,
+      "toy": "HKJ32",
+      "num": "024",
+      "model_name": "Surfin' School Bus",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/68/HW-2023-024-1-HKJ32-Surfin%27_School_Bus.png"
+    },
+    {
+      "id": 57,
+      "toy": "HKK79",
+      "num": "024",
+      "model_name": "Surfin' School Bus (2nd Color)",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/HKK79.jpg"
+    },
+    {
+      "id": 58,
+      "toy": "HKG80",
+      "num": "025",
+      "model_name": "'84 Mustang SVO",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HKG80-LOOSE.jpg"
+    },
+    {
+      "id": 59,
+      "toy": "HKJ60",
+      "num": "025",
+      "model_name": "'84 Mustang SVO (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/025_-_%2784_Mustang_SVO_%28Black%29.jpg"
+    },
+    {
+      "id": 60,
+      "toy": "HKG82",
+      "num": "026",
+      "model_name": "'80 El Camino",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/94/HW-2023-026-1-HKG82-80_El_Camino.png"
+    },
+    {
+      "id": 61,
+      "toy": "HKL35",
+      "num": "026",
+      "model_name": "'80 El Camino (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "Dollar General Exclusive",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 62,
+      "toy": "HKJ61",
+      "num": "026",
+      "model_name": "'80 El Camino (3rd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "Dollar General Exclusive",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/52/RCGEC802023-02a.jpg"
+    },
+    {
+      "id": 63,
+      "toy": "HKH02",
+      "num": "027",
+      "model_name": "Mercedes-Benz 300 SL",
+      "series_name": "Retro Racers",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/HKH02-LOOSE.jpg"
+    },
+    {
+      "id": 64,
+      "toy": "HKL09",
+      "num": "027",
+      "model_name": "Mercedes-Benz 300 SL",
+      "series_name": "Retro Racers",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Mercedes-benzs300sl.jpg"
+    },
+    {
+      "id": 65,
+      "toy": "HKH01",
+      "num": "028",
+      "model_name": "Mazda 787B",
+      "series_name": "Retro Racers",
+      "series_extra": "New in Mainline",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Mazda787.jpg"
+    },
+    {
+      "id": 66,
+      "toy": "HKL36",
+      "num": "028",
+      "model_name": "Mazda 787B (2nd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "New in MainlineDollar General Exclusive",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/0230701191542.jpg"
+    },
+    {
+      "id": 67,
+      "toy": "HKJ79",
+      "num": "028",
+      "model_name": "Mazda 787B (3rd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "New in Mainline",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/05/028_250.jpg"
+    },
+    {
+      "id": 68,
+      "toy": "GRX17",
+      "num": "029",
+      "model_name": "Standard Kart",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/HW-2023-029-1-HKxxx-Standard_Kart.png"
+    },
+    {
+      "id": 69,
+      "toy": "HKH16",
+      "num": "030",
+      "model_name": "Custom Small Block",
+      "series_name": "Brick Rides",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/95/HW-2023-030-1-Custom_Small_Block.png"
+    },
+    {
+      "id": 70,
+      "toy": "HKH19",
+      "num": "031",
+      "model_name": "Quick Bite",
+      "series_name": "Sweet Rides",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/18/HW-2023-031-1-HKH19-Quick_Bite.png"
+    },
+    {
+      "id": 71,
+      "toy": "HKJ92",
+      "num": "031",
+      "model_name": "Quick Bite (2nd Color)",
+      "series_name": "Sweet Rides",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/80/031_250.jpg"
+    },
+    {
+      "id": 72,
+      "toy": "HKJ49",
+      "num": "032",
+      "model_name": "Rodger Dodger",
+      "series_name": "HW Dream Garage",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/HW-2023-032-1-HKxxx-Rodger_Dodger.png"
+    },
+    {
+      "id": 73,
+      "toy": "HKH25",
+      "num": "033",
+      "model_name": "Baja Hauler",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/86/HW-2023-033-1-HKH25-Baja_Hauler.png"
+    },
+    {
+      "id": 74,
+      "toy": "HKJ98",
+      "num": "033",
+      "model_name": "Baja Hauler (2nd Color)",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/52/HKJ98.jpg"
+    },
+    {
+      "id": 75,
+      "toy": "HKH41",
+      "num": "034",
+      "model_name": "Corvette C7 Z06 Convertible",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/99/HW-2023-034-1-HKH41-Corvette_C7_Z06_Convertible.png"
+    },
+    {
+      "id": 76,
+      "toy": "HKL37",
+      "num": "034",
+      "model_name": "Corvette C7 Z06 Convertible (2nd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "Dollar General Exclusive",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 77,
+      "toy": "HKK10",
+      "num": "034",
+      "model_name": "Corvette C7 Z06 Convertible (3rd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 78,
+      "toy": "HKH47",
+      "num": "035",
+      "model_name": "Baja Bone Shaker",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/HW_Baja_Bone_Shaker_%282023_-_HKH47%29.jpg"
+    },
+    {
+      "id": 79,
+      "toy": "HKH48",
+      "num": "036",
+      "model_name": "Custom '11 Camaro",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/HW-2023-036-1-HKxxx-Custom_%2711_Camaro.png"
+    },
+    {
+      "id": 80,
+      "toy": "HKK17",
+      "num": "036",
+      "model_name": "Custom '11 Camaro (2nd Color)",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/46/036_250.jpg"
+    },
+    {
+      "id": 81,
+      "toy": "HKG28",
+      "num": "037",
+      "model_name": "Tesla Model Y",
+      "series_name": "HW Green Speed",
+      "series_extra": "New for 2023!",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/TeslaModelY.jpg"
+    },
+    {
+      "id": 82,
+      "toy": "HKL53",
+      "num": "037",
+      "model_name": "Tesla Model Y (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "New for 2023!Target Exclusive",
+      "series_no": "3/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Telsa_Model_Y.jpg"
+    },
+    {
+      "id": 83,
+      "toy": "HKK20",
+      "num": "037",
+      "model_name": "Tesla Model Y (3rd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "New for 2023!",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/df/037_-_Tesla_Model_Y_%28Gray%29.jpg"
+    },
+    {
+      "id": 84,
+      "toy": "HKH55",
+      "num": "038",
+      "model_name": "Porsche Panamera Turbo S E-Hybrid Sport Turismo",
+      "series_name": "HW Green Speed",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/HKH55.jpg"
+    },
+    {
+      "id": 85,
+      "toy": "HKL38",
+      "num": "038",
+      "model_name": "Porsche Panamera Turbo S E-Hybrid Sport Turismo (2nd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "Dollar General Exclusive",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 86,
+      "toy": "HKH77",
+      "num": "039",
+      "model_name": "Turbine Sublime",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/03/2023TurbineSublimejwj.jpg"
+    },
+    {
+      "id": 87,
+      "toy": "HKK38",
+      "num": "039",
+      "model_name": "Turbine Sublime (2nd Color)",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 88,
+      "toy": "HKG29",
+      "num": "040",
+      "model_name": "Rally Speciale",
+      "series_name": "HW Track Champs",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/RallySpeciale.jpg"
+    },
+    {
+      "id": 89,
+      "toy": "HKK37",
+      "num": "040",
+      "model_name": "Rally Speciale (2nd Color)",
+      "series_name": "HW Track Champs",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/HW_-_Rally_Speciale_%282023_-_HKK37%29.jpg"
+    },
+    {
+      "id": 90,
+      "toy": "HKH66",
+      "num": "041",
+      "model_name": "Hot Wired",
+      "series_name": "HW Track Champs",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/HW-2023-041-1-Hot_Wired.png"
+    },
+    {
+      "id": 91,
+      "toy": "HKK27",
+      "num": "041",
+      "model_name": "Hot Wired (2nd Color)",
+      "series_name": "HW Track Champs",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 92,
+      "toy": "HKH79",
+      "num": "042",
+      "model_name": "Skate Grom",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/HW-2023-042-1-Skate_Grom.png"
+    },
+    {
+      "id": 93,
+      "toy": "HKK42",
+      "num": "042",
+      "model_name": "Skate Grom (2nd Color)",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/59/042_250.jpg"
+    },
+    {
+      "id": 94,
+      "toy": "HKH80",
+      "num": "043",
+      "model_name": "Tee'd Off 2",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/HW-2023-043-1-HKxxx-Tee%27d_Off_2.png"
+    },
+    {
+      "id": 95,
+      "toy": "HKK43",
+      "num": "043",
+      "model_name": "Tee'd Off 2 (2nd Color)",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 96,
+      "toy": "HKK44",
+      "num": "043",
+      "model_name": "Tee'd Off 2 (3rd Color)",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 97,
+      "toy": "HKH84",
+      "num": "044",
+      "model_name": "2018 Bentley Continental GT3",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/42/HW_2018_Bentley_Continental_GT3_%282023_-_HKH84%29.jpg"
+    },
+    {
+      "id": 98,
+      "toy": "HKL45",
+      "num": "044",
+      "model_name": "2018 Bentley Continental GT3 (2nd Color)",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/54/HKL45.jpg"
+    },
+    {
+      "id": 99,
+      "toy": "HKH89",
+      "num": "045",
+      "model_name": "Poison Arrow",
+      "series_name": "Sky Show",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/72/HW-2023-045-1-Poison_Arrow.png"
+    },
+    {
+      "id": 100,
+      "toy": "HKK52",
+      "num": "045",
+      "model_name": "Poison Arrow (2nd Color)",
+      "series_name": "Sky Show",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 101,
+      "toy": "HKJ11",
+      "num": "046",
+      "model_name": "2023 Nissan Z",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/05/%2723NissanZ.jpg"
+    },
+    {
+      "id": 102,
+      "toy": "HKK64",
+      "num": "046",
+      "model_name": "2023 Nissan Z (2nd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/2023NissanZ.jpg"
+    },
+    {
+      "id": 103,
+      "toy": "HKJ12",
+      "num": "047",
+      "model_name": "Nissan Maxima Drift Car",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HKJ12_-_LOOSE.jpg"
+    },
+    {
+      "id": 104,
+      "toy": "HKK65",
+      "num": "047",
+      "model_name": "Nissan Maxima Drift Car (2nd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/26/047_250.jpg"
+    },
+    {
+      "id": 105,
+      "toy": "HKJ27",
+      "num": "048",
+      "model_name": "Gotta Go",
+      "series_name": "Experimotors",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/34/HW-2023-048-1-Gotta_Go.png"
+    },
+    {
+      "id": 106,
+      "toy": "HKK73",
+      "num": "048",
+      "model_name": "Gotta Go (2nd Color)",
+      "series_name": "Experimotors",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/20230529_100331.jpg"
+    },
+    {
+      "id": 107,
+      "toy": "HKJ33",
+      "num": "049",
+      "model_name": "Kool Kombi",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/HW_Volkswagen_Kool_Kombi_%282023_-_HKJ33%29.jpg"
+    },
+    {
+      "id": 108,
+      "toy": "HKL26",
+      "num": "049",
+      "model_name": "Kool Kombi (2nd Color - Zamac)",
+      "series_name": "Surf's Up",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/94/2023_Hot_Wheels_Kool_Kombi_Zamac.jpg"
+    },
+    {
+      "id": 109,
+      "toy": "HKK80",
+      "num": "049",
+      "model_name": "Kool Kombi (3rd Color)",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/GrayKombi.jpg"
+    },
+    {
+      "id": 110,
+      "toy": "HKL06",
+      "num": "050",
+      "model_name": "Surf Crate",
+      "series_name": "Surf's Up",
+      "series_extra": "Treasure Hunt",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/01/HW-2023-050-1-Surf_Crate.png"
+    },
+    {
+      "id": 111,
+      "toy": "HKG81",
+      "num": "051",
+      "model_name": "'89 Mazda Savanna RX-7 FC3S",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/06/HW-2023-051-1-HKG81-89_Mazda_Savanna_RX-7_FC3S.png"
+    },
+    {
+      "id": 112,
+      "toy": "HKJ62",
+      "num": "051",
+      "model_name": "'89 Mazda Savanna RX-7 FC3S (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 113,
+      "toy": "HKG86",
+      "num": "052",
+      "model_name": "1988 Jeep Wagoneer",
+      "series_name": "HW: The '80s",
+      "series_extra": "New in Mainline",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/%2788JeepWagoneer.jpg"
+    },
+    {
+      "id": 114,
+      "toy": "HKJ63",
+      "num": "052",
+      "model_name": "1988 Jeep Wagoneer (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "New in Mainline",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/HKJ63.jpg"
+    },
+    {
+      "id": 115,
+      "toy": "HKG91",
+      "num": "053",
+      "model_name": "Hot Wheels High",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/HW-2023-053-1-Hot_Wheels_High.png"
+    },
+    {
+      "id": 116,
+      "toy": "HKJ67",
+      "num": "053",
+      "model_name": "Hot Wheels High (2nd Color)",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/HKJ67.jpg"
+    },
+    {
+      "id": 117,
+      "toy": "HKJ68",
+      "num": "053",
+      "model_name": "Hot Wheels High (3rd Color)",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 118,
+      "toy": "HKG92",
+      "num": "054",
+      "model_name": "Dodge Charger Drift",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/HW-2023-054-1-HKG92-Dodge_Charger_Drift.png"
+    },
+    {
+      "id": 119,
+      "toy": "HKL58",
+      "num": "054",
+      "model_name": "Dodge Charger Drift (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "7/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 120,
+      "toy": "HKG38",
+      "num": "055",
+      "model_name": "Batman Forever Batmobile",
+      "series_name": "Batman",
+      "series_extra": "New for 2023!",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/ValKilmerBatmobile.jpg"
+    },
+    {
+      "id": 121,
+      "toy": "HKJ73",
+      "num": "055",
+      "model_name": "Batman Forever Batmobile (2nd Color)",
+      "series_name": "Batman",
+      "series_extra": "New for 2023!",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HKJ73.jpg"
+    },
+    {
+      "id": 122,
+      "toy": "HKH05",
+      "num": "056",
+      "model_name": "Matt and Debbie Hay's 1988 Pro Street Thunderbird",
+      "series_name": "Retro Racers",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/HKH05-LOOSE.jpg"
+    },
+    {
+      "id": 123,
+      "toy": "HKL25",
+      "num": "056",
+      "model_name": "Matt and Debbie Hay's 1988 Pro Street Thunderbird (2nd Color - Zamac)",
+      "series_name": "Retro Racers",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 124,
+      "toy": "HKJ80",
+      "num": "056",
+      "model_name": "Matt and Debbie Hay's 1988 Pro Street Thunderbird (3rd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/056_-_Matt_and_Debbie_Hay%27s_1988_Pro_St._T-bird_%28Black%29.jpg"
+    },
+    {
+      "id": 125,
+      "toy": "HKH11",
+      "num": "057",
+      "model_name": "Barbie Extra",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/11/HW-2023-057-1-Barbie_Extra.png"
+    },
+    {
+      "id": 126,
+      "toy": "HKG31",
+      "num": "058",
+      "model_name": "Brickin' Delivery",
+      "series_name": "Brick Rides",
+      "series_extra": "New for 2023!",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Brickin%27Delivery.jpg"
+    },
+    {
+      "id": 127,
+      "toy": "HKJ87",
+      "num": "058",
+      "model_name": "Brickin' Delivery (2nd Color)",
+      "series_name": "Brick Rides",
+      "series_extra": "New for 2023!",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/058_250.jpg"
+    },
+    {
+      "id": 128,
+      "toy": "HKH20",
+      "num": "059",
+      "model_name": "Roller Toaster",
+      "series_name": "Sweet Rides",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/66/HW_Roller_Toaster_%282023_-_HKH20%29.jpg"
+    },
+    {
+      "id": 129,
+      "toy": "HKJ93",
+      "num": "059",
+      "model_name": "Roller Toaster (2nd Color)",
+      "series_name": "Sweet Rides",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/58/20230529_100024.jpg"
+    },
+    {
+      "id": 130,
+      "toy": "HKH21",
+      "num": "060",
+      "model_name": "Bone Shaker",
+      "series_name": "HW Dream Garage",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/72/HW-2023-060-1-HKxxx-Bone_Shaker.png"
+    },
+    {
+      "id": 131,
+      "toy": "HKJ95",
+      "num": "060",
+      "model_name": "Bone Shaker (2nd Color)",
+      "series_name": "HW Dream Garage",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/HKJ95.jpg"
+    },
+    {
+      "id": 132,
+      "toy": "HKH26",
+      "num": "061",
+      "model_name": "Mercedes-Benz Unimog 1300",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/39/HW-2023-061-1-Mercedes-Benz_Unimog_1300.png"
+    },
+    {
+      "id": 133,
+      "toy": "HKJ99",
+      "num": "061",
+      "model_name": "Mercedes-Benz Unimog 1300 (2nd Color)",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/061_250.jpg"
+    },
+    {
+      "id": 134,
+      "toy": "HKH39",
+      "num": "062",
+      "model_name": "Max Steel",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/MaxSteelWhite2023.jpg"
+    },
+    {
+      "id": 135,
+      "toy": "HKH49",
+      "num": "063",
+      "model_name": "'68 COPO Camaro",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/HW-2023-063-1-HKxxx-68_COPO_Camaro.png"
+    },
+    {
+      "id": 136,
+      "toy": "HKL12",
+      "num": "063",
+      "model_name": "'68 COPO Camaro",
+      "series_name": "HW Art Cars",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/%2768COPOCamaro.jpg"
+    },
+    {
+      "id": 137,
+      "toy": "HKH50",
+      "num": "064",
+      "model_name": "Hot Wheels Ford Transit Connect",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/HW-2023-064-1-HKxxx-Hot_Wheels_Ford_Transit_Connect.png"
+    },
+    {
+      "id": 138,
+      "toy": "HKK18",
+      "num": "064",
+      "model_name": "Hot Wheels Ford Transit Connect (2nd Color)",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/HKK18.jpg"
+    },
+    {
+      "id": 139,
+      "toy": "HKH52",
+      "num": "065",
+      "model_name": "'76 Greenwood Corvette",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/07/HW-2023-065-1-HKxxx-76_Greenwood_Corvette.png"
+    },
+    {
+      "id": 140,
+      "toy": "HKH67",
+      "num": "066",
+      "model_name": "Dodge Van",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/DodgeRamVan.jpg"
+    },
+    {
+      "id": 141,
+      "toy": "HKK28",
+      "num": "066",
+      "model_name": "Dodge Van (2nd Color)",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/066_-_Dodge_Van_%28White%29.jpg"
+    },
+    {
+      "id": 142,
+      "toy": "HKG32",
+      "num": "067",
+      "model_name": "Ducati DesertX",
+      "series_name": "HW Moto",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/DucatiDesertX.jpg"
+    },
+    {
+      "id": 143,
+      "toy": "HKK31",
+      "num": "067",
+      "model_name": "Ducati DesertX (2nd Color)",
+      "series_name": "HW Moto",
+      "series_extra": "New for 2023!",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 144,
+      "toy": "HKL01",
+      "num": "068",
+      "model_name": "BMW R nineT Racer",
+      "series_name": "HW Moto",
+      "series_extra": "Treasure Hunt",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/55/BMWRnineTRacer.jpg"
+    },
+    {
+      "id": 145,
+      "toy": "HKJ13",
+      "num": "069",
+      "model_name": "Nissan Skyline GT-R (R32)",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/GodzillaR32.jpg"
+    },
+    {
+      "id": 146,
+      "toy": "HKG36",
+      "num": "070",
+      "model_name": "Rimac Nevera",
+      "series_name": "HW Green Speed",
+      "series_extra": "New for 2023!",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/RimacNevera.jpg"
+    },
+    {
+      "id": 147,
+      "toy": "HKK21",
+      "num": "070",
+      "model_name": "Rimac Nevera (2nd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "New for 2023!",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/RivieraNevera.jpg"
+    },
+    {
+      "id": 148,
+      "toy": "HKJ34",
+      "num": "071",
+      "model_name": "Deora III",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/HW-2023-071-1-Deora_III.png"
+    },
+    {
+      "id": 149,
+      "toy": "HKK81",
+      "num": "071",
+      "model_name": "Deora III (2nd Color)",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/20230529_100340.jpg"
+    },
+    {
+      "id": 150,
+      "toy": "HKJ36",
+      "num": "072",
+      "model_name": "Pagani Zonda R",
+      "series_name": "HW Turbo",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/36/BiancoZonda.jpg"
+    },
+    {
+      "id": 151,
+      "toy": "HKK83",
+      "num": "072",
+      "model_name": "Pagani Zonda R (2nd Color)",
+      "series_name": "HW Turbo",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/72/BluZonda.jpg"
+    },
+    {
+      "id": 152,
+      "toy": "HKH22",
+      "num": "073",
+      "model_name": "Twinduction",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "h"
+    },
+    {
+      "id": 153,
+      "toy": "HKK88",
+      "num": "073",
+      "model_name": "Twinduction (2nd Color)",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/54/073_250.jpg"
+    },
+    {
+      "id": 154,
+      "toy": "HKG83",
+      "num": "074",
+      "model_name": "'84 Corvette",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/37/HW-2023-074-1-HKG83-84_Corvette.png"
+    },
+    {
+      "id": 155,
+      "toy": "HKG85",
+      "num": "075",
+      "model_name": "'82 Cadillac Seville",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/HW-2023-075-1-HKG85-82_Cadillac_Seville.png"
+    },
+    {
+      "id": 156,
+      "toy": "HKJ64",
+      "num": "075",
+      "model_name": "'82 Cadillac Seville (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 157,
+      "toy": "HKL57",
+      "num": "075",
+      "model_name": "'82 Cadillac Seville (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "8/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 158,
+      "toy": "HKG89",
+      "num": "076",
+      "model_name": "Time Attaxi",
+      "series_name": "HW Metro",
+      "series_extra": "Year of the Rabbit",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/HW-2023-076-1-HKxxx-Time_Attaxi.png"
+    },
+    {
+      "id": 159,
+      "toy": "HKG35",
+      "num": "077",
+      "model_name": "Audi '90 quattro",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/49/AudiquattroGTO.jpg"
+    },
+    {
+      "id": 160,
+      "toy": "HKJ81",
+      "num": "077",
+      "model_name": "Audi '90 quattro (2nd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 161,
+      "toy": "HKH10",
+      "num": "078",
+      "model_name": "Snoopy",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HW_-_Snoopy_%282023_-_HKH10%29.jpg"
+    },
+    {
+      "id": 162,
+      "toy": "HKH09",
+      "num": "079",
+      "model_name": "The Armadillo",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/HW-2023-079-1-HKxxx-The_Armadillo.png"
+    },
+    {
+      "id": 163,
+      "toy": "HKH31",
+      "num": "080",
+      "model_name": "Lolux",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/HKH31-LOOSE.jpg"
+    },
+    {
+      "id": 164,
+      "toy": "HKK01",
+      "num": "080",
+      "model_name": "Lolux (2nd Color)",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 165,
+      "toy": "HKH29",
+      "num": "081",
+      "model_name": "Ford Mustang Mach-E 1400",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/HW-2023-081-1-HKxxx-Ford_Mustang_Mach-E_1400.png"
+    },
+    {
+      "id": 166,
+      "toy": "HKK02",
+      "num": "081",
+      "model_name": "Ford Mustang Mach-E 1400 (2nd Color)",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/081_250.jpg"
+    },
+    {
+      "id": 167,
+      "toy": "HKH40",
+      "num": "082",
+      "model_name": "McLaren Elva",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/2023McLarenElva.jpg"
+    },
+    {
+      "id": 168,
+      "toy": "HKL54",
+      "num": "082",
+      "model_name": "McLaren Elva (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "4/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 169,
+      "toy": "HKH51",
+      "num": "083",
+      "model_name": "'08 Ford Focus",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/HKH51-LOOSE.jpg"
+    },
+    {
+      "id": 170,
+      "toy": "HKH56",
+      "num": "084",
+      "model_name": "Lotus Evija",
+      "series_name": "HW Green Speed",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/99/2023LotusEvija.jpg"
+    },
+    {
+      "id": 171,
+      "toy": "HKL13",
+      "num": "084",
+      "model_name": "Lotus Evija",
+      "series_name": "HW Green Speed",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/HW_-_Lotus_Evija_%282023_STH_-_HKL13%29.jpg"
+    },
+    {
+      "id": 172,
+      "toy": "HKG33",
+      "num": "085",
+      "model_name": "HW Braille Racer - Twin Mill",
+      "series_name": "Experimotors",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/BrailleTwinMill.jpg"
+    },
+    {
+      "id": 173,
+      "toy": "HKK74",
+      "num": "085",
+      "model_name": "HW Braille Racer - Twin Mill (2nd Color)",
+      "series_name": "Experimotors",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/99/ZAMACBrailleTwinMill.jpg"
+    },
+    {
+      "id": 174,
+      "toy": "HKH68",
+      "num": "086",
+      "model_name": "Erikenstein Rod",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Erikenstein2023RaceTeamBlue.jpg"
+    },
+    {
+      "id": 175,
+      "toy": "HKK29",
+      "num": "086",
+      "model_name": "Erikenstein Rod (2nd Color)",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 176,
+      "toy": "HKH74",
+      "num": "087",
+      "model_name": "Honda Super Cub",
+      "series_name": "HW Moto",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/HW-2023-087-1-Honda_Super_Cub.png"
+    },
+    {
+      "id": 177,
+      "toy": "",
+      "num": "087",
+      "model_name": "Honda Super Cub (2nd Color)",
+      "series_name": "HW Moto",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 178,
+      "toy": "HKH75",
+      "num": "088",
+      "model_name": "Chrysler Pacifica",
+      "series_name": "Mud Studs",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/HW-2023-088-1-Chrysler_Pacifica.png"
+    },
+    {
+      "id": 179,
+      "toy": "HKK35",
+      "num": "088",
+      "model_name": "Chrysler Pacifica (2nd Color)",
+      "series_name": "Mud Studs",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/088_250.jpg"
+    },
+    {
+      "id": 180,
+      "toy": "HKG34",
+      "num": "089",
+      "model_name": "Group C Fantasy",
+      "series_name": "HW Track Champs",
+      "series_extra": "New for 2023!",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/94/GroupCFantasy.jpg"
+    },
+    {
+      "id": 181,
+      "toy": "HKK39",
+      "num": "089",
+      "model_name": "Group C Fantasy (2nd Color)",
+      "series_name": "HW Track Champs",
+      "series_extra": "New for 2023!",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/20230529_100243.jpg"
+    },
+    {
+      "id": 182,
+      "toy": "HKH81",
+      "num": "090",
+      "model_name": "Head Gasket",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/HW-2023-090-HKH81-Head_Gasket.png"
+    },
+    {
+      "id": 183,
+      "toy": "HKK45",
+      "num": "090",
+      "model_name": "Head Gasket (2nd Color)",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 184,
+      "toy": "HKH86",
+      "num": "091",
+      "model_name": "Nissan Leaf NISMO RC_02",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/HW-2023-091-1-HKH86-Nissan_Leaf_NISMO_RC_02.png"
+    },
+    {
+      "id": 185,
+      "toy": "HKK50",
+      "num": "091",
+      "model_name": "Nissan Leaf NISMO RC_02 (2nd Color)",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 186,
+      "toy": "HKK95",
+      "num": "092",
+      "model_name": "Mad Propz",
+      "series_name": "Sky Show",
+      "series_extra": "Treasure Hunt",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/50/HW-2023-092-1-HKxxx-Mad_Propz.png"
+    },
+    {
+      "id": 187,
+      "toy": "HKH98",
+      "num": "093",
+      "model_name": "Toon'd '83 Chevy Silverado",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/93/HW-2023-093-1-HKxxx-Toon%27d_%2783_Chevy_Silverado.png"
+    },
+    {
+      "id": 188,
+      "toy": "HKK57",
+      "num": "093",
+      "model_name": "Toon'd '83 Chevy Silverado (2nd Color)",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/093_250.jpg"
+    },
+    {
+      "id": 189,
+      "toy": "HKJ02",
+      "num": "094",
+      "model_name": "'67 Jeepster Commando",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/64/HW-2023-094-1-HKxxx-67_Jeepster_Commando.png"
+    },
+    {
+      "id": 190,
+      "toy": "HKL55",
+      "num": "094",
+      "model_name": "'67 Jeepster Commando (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "5/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 191,
+      "toy": "HKJ15",
+      "num": "095",
+      "model_name": "1986 Toyota Van",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/29/HW-2023-095-1-HKJ15-1986_Toyota_Van.png"
+    },
+    {
+      "id": 192,
+      "toy": "HKL56",
+      "num": "095",
+      "model_name": "1986 Toyota Van (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "6/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 193,
+      "toy": "HKK66",
+      "num": "095",
+      "model_name": "1986 Toyota Van (3rd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 194,
+      "toy": "HKJ16",
+      "num": "096",
+      "model_name": "'90 Honda Civic EF",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/79/HW-2023-096-1-HKJ16-90_Honda_Civic_EF.png"
+    },
+    {
+      "id": 195,
+      "toy": "HKL28",
+      "num": "096",
+      "model_name": "'90 Honda Civic EF (2nd Color - Zamac)",
+      "series_name": "HW J-Imports",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "7/10",
+      "photo": "h"
+    },
+    {
+      "id": 196,
+      "toy": "HKJ29",
+      "num": "097",
+      "model_name": "Lucid Air",
+      "series_name": "Factory Fresh",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/28/HKJ29-LOOSE.jpg"
+    },
+    {
+      "id": 197,
+      "toy": "HKK76",
+      "num": "097",
+      "model_name": "Lucid Air (2nd Color)",
+      "series_name": "Factory Fresh",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/097_250.jpg"
+    },
+    {
+      "id": 198,
+      "toy": "HKJ37",
+      "num": "098",
+      "model_name": "Aston Martin Vantage GTE",
+      "series_name": "HW Turbo",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/35/AMRGulf.jpg"
+    },
+    {
+      "id": 199,
+      "toy": "HKK84",
+      "num": "098",
+      "model_name": "Aston Martin Vantage GTE (2nd Color)",
+      "series_name": "HW Turbo",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 200,
+      "toy": "HKJ53",
+      "num": "099",
+      "model_name": "Custom Ford Maverick",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/HW-2023-099-1-HKJ53-Custom_Ford_Maverick.png"
+    },
+    {
+      "id": 201,
+      "toy": "HKJ51",
+      "num": "100",
+      "model_name": "Count Muscula",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/88/HW-2023-100-1-Count_Muscula.png"
+    },
+    {
+      "id": 202,
+      "toy": "HKK89",
+      "num": "100",
+      "model_name": "Count Muscula (2nd Color)",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/45/100_250_2.jpg"
+    },
+    {
+      "id": 203,
+      "toy": "HKG84",
+      "num": "101",
+      "model_name": "DMC DeLorean",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/HW-2023-101-1-HKG84-DMC_DeLorean.png"
+    },
+    {
+      "id": 204,
+      "toy": "HKJ65",
+      "num": "101",
+      "model_name": "DMC DeLorean (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 205,
+      "toy": "HKG93",
+      "num": "102",
+      "model_name": "Drone Duty",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/HW-2023-102-1-HKxxx-Drone_Duty.png"
+    },
+    {
+      "id": 206,
+      "toy": "HKJ70",
+      "num": "102",
+      "model_name": "Drone Duty (2nd Color)",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/44/102_250.jpg"
+    },
+    {
+      "id": 207,
+      "toy": "HKG99",
+      "num": "103",
+      "model_name": "Batmobile",
+      "series_name": "Batman",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/HW_-_Batmobile_%282023_-_HKG99%29.jpg"
+    },
+    {
+      "id": 208,
+      "toy": "HKJ74",
+      "num": "103",
+      "model_name": "Batmobile (2nd Color)",
+      "series_name": "Batman",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/S-l1600w.png"
+    },
+    {
+      "id": 209,
+      "toy": "HKG37",
+      "num": "104",
+      "model_name": "Brick and Motor",
+      "series_name": "Brick Rides",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/BrickandMotor.jpg"
+    },
+    {
+      "id": 210,
+      "toy": "HKJ88",
+      "num": "104",
+      "model_name": "Brick and Motor (2nd Color)",
+      "series_name": "Brick Rides",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/104_250_2.jpg"
+    },
+    {
+      "id": 211,
+      "toy": "HKG39",
+      "num": "105",
+      "model_name": "El Segundo Coupe",
+      "series_name": "HW Dream Garage",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/ElSegundoCoupe.jpg"
+    },
+    {
+      "id": 212,
+      "toy": "HKJ96",
+      "num": "105",
+      "model_name": "El Segundo Coupe (2nd Color)",
+      "series_name": "HW Dream Garage",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/87/105_250_2.jpg"
+    },
+    {
+      "id": 213,
+      "toy": "HKH28",
+      "num": "106",
+      "model_name": "'18 COPO Camaro SS",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/HW-2023-106-1-HKxxx-18_COPO_Camaro_SS.png"
+    },
+    {
+      "id": 214,
+      "toy": "HKH32",
+      "num": "107",
+      "model_name": "'86 Ford Thunderbird Pro Stock",
+      "series_name": "HW Drag Strip",
+      "series_extra": "New in Mainline",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/%2786FordT-Bird.jpg"
+    },
+    {
+      "id": 215,
+      "toy": "HKK03",
+      "num": "107",
+      "model_name": "'86 Ford Thunderbird Pro Stock (2nd Color)",
+      "series_name": "HW Drag Strip",
+      "series_extra": "New in Mainline",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 216,
+      "toy": "HKH57",
+      "num": "108",
+      "model_name": "Automobili Pininfarina Battista",
+      "series_name": "HW Green Speed",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/90/2023PininfarinaBattista.jpg"
+    },
+    {
+      "id": 217,
+      "toy": "HKK22",
+      "num": "108",
+      "model_name": "Automobili Pininfarina Battista (2nd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 218,
+      "toy": "HKL31",
+      "num": "108",
+      "model_name": "Automobili Pininfarina Battista (3rd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 219,
+      "toy": "HKH58",
+      "num": "109",
+      "model_name": "Audi RS e-tron GT",
+      "series_name": "HW Green Speed",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/2023AudiRSe-tronGT.jpg"
+    },
+    {
+      "id": 220,
+      "toy": "HKL59",
+      "num": "109",
+      "model_name": "Audi RS e-tron GT (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "9/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 221,
+      "toy": "HKH61",
+      "num": "110",
+      "model_name": "'55 Chevy Bel Air Gasser",
+      "series_name": "HW Gassers",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Tri-FiveTerror.jpg"
+    },
+    {
+      "id": 222,
+      "toy": "HKK26",
+      "num": "110",
+      "model_name": "'55 Chevy Bel Air Gasser (2nd Color)",
+      "series_name": "HW Gassers",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/da/110_250.jpg"
+    },
+    {
+      "id": 223,
+      "toy": "HKL00",
+      "num": "111",
+      "model_name": "Mod Rod",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "Treasure Hunt",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/53/20230529_100141.jpg"
+    },
+    {
+      "id": 224,
+      "toy": "HKH78",
+      "num": "112",
+      "model_name": "Mach It Go",
+      "series_name": "HW Track Champs",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/HW-2023-112-1-HKxxx-Mach_It_Go.png"
+    },
+    {
+      "id": 225,
+      "toy": "HKK40",
+      "num": "112",
+      "model_name": "Mach It Go (2nd Color)",
+      "series_name": "HW Track Champs",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/13/112_250.jpg"
+    },
+    {
+      "id": 226,
+      "toy": "HKH82",
+      "num": "113",
+      "model_name": "Ice Shredder",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/59/IceShredder.jpg"
+    },
+    {
+      "id": 227,
+      "toy": "HKK46",
+      "num": "113",
+      "model_name": "Ice Shredder (2nd Color)",
+      "series_name": "HW Sports",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 228,
+      "toy": "HKH87",
+      "num": "114",
+      "model_name": "'15 Mazda MX-5 Miata",
+      "series_name": "HW Modified",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/80/HW-2023-114-1-HKH87-15_Mazda_MX-5_Miata.png"
+    },
+    {
+      "id": 229,
+      "toy": "HKL27",
+      "num": "114",
+      "model_name": "'15 Mazda MX-5 Miata (2nd Color - Zamac)",
+      "series_name": "HW Modified",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "5/5",
+      "photo": "h"
+    },
+    {
+      "id": 230,
+      "toy": "HKH91",
+      "num": "115",
+      "model_name": "Water Bomber",
+      "series_name": "Sky Show",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/HW-2023-115-1-HKxxx-Water_Bomber.png"
+    },
+    {
+      "id": 231,
+      "toy": "HKJ00",
+      "num": "116",
+      "model_name": "GMC Hummer EV",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/HW-2023-116-1-HKxxx-GMC_Hummer_EV.png"
+    },
+    {
+      "id": 232,
+      "toy": "HKL61",
+      "num": "116",
+      "model_name": "GMC Hummer EV (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target Exclusive",
+      "series_no": "11/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 233,
+      "toy": "HKG40",
+      "num": "117",
+      "model_name": "'73 Honda Civic Custom",
+      "series_name": "HW J-Imports",
+      "series_extra": "New for 2023!",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/%2773HondaCivicCustom.jpg"
+    },
+    {
+      "id": 234,
+      "toy": "HKK67",
+      "num": "117",
+      "model_name": "'73 Honda Civic Custom (2nd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "New for 2023!",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/16/HondaCVCCCustom.jpg"
+    },
+    {
+      "id": 235,
+      "toy": "HKJ14",
+      "num": "118",
+      "model_name": "1968 Mazda Cosmo Sport",
+      "series_name": "HW J-Imports",
+      "series_extra": "New in Mainline",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/df/1968MazdaCosmoSport.jpg"
+    },
+    {
+      "id": 236,
+      "toy": "HKL20",
+      "num": "118",
+      "model_name": "1968 Mazda Cosmo Sport",
+      "series_name": "HW J-Imports",
+      "series_extra": "New in MainlineSuper Treasure Hunt",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/13/1968_Mazda_Cosmo_Sport.png"
+    },
+    {
+      "id": 237,
+      "toy": "HKJ28",
+      "num": "119",
+      "model_name": "Clip Rod",
+      "series_name": "Experimotors",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/90/HW_-_Clip_Rod_%282023_-_HKJ28%29_Card_Front.jpg"
+    },
+    {
+      "id": 238,
+      "toy": "HKG30",
+      "num": "120",
+      "model_name": "BMW 507",
+      "series_name": "Factory Fresh",
+      "series_extra": "New for 2023!",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/BMW507.jpg"
+    },
+    {
+      "id": 239,
+      "toy": "HKK77",
+      "num": "120",
+      "model_name": "BMW 507 (2nd Color)",
+      "series_name": "Factory Fresh",
+      "series_extra": "New for 2023!",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 240,
+      "toy": "HKJ30",
+      "num": "121",
+      "model_name": "Lotus Emira",
+      "series_name": "Factory Fresh",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/2023LotusEmira.jpg"
+    },
+    {
+      "id": 241,
+      "toy": "HKK78",
+      "num": "121",
+      "model_name": "Lotus Emira (2nd Color)",
+      "series_name": "Factory Fresh",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 242,
+      "toy": "HKJ35",
+      "num": "122",
+      "model_name": "Surf 'N Turf",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/HW-2023-122-1-HKxxx-Surf_%27N_Turf.png"
+    },
+    {
+      "id": 243,
+      "toy": "HKK82",
+      "num": "122",
+      "model_name": "Surf 'N Turf (2nd Color)",
+      "series_name": "Surf's Up",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/122_250.jpg"
+    },
+    {
+      "id": 244,
+      "toy": "HKJ55",
+      "num": "123",
+      "model_name": "'70 Dodge Hemi Challenger",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/HW-2023-123-1-HKJ55-70_Dodge_Hemi_Challenger.png"
+    },
+    {
+      "id": 245,
+      "toy": "HKL63",
+      "num": "123",
+      "model_name": "'70 Dodge Hemi Challenger (2nd Color)",
+      "series_name": "Muscle Mania",
+      "series_extra": "Walgreens Exclusive",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 246,
+      "toy": "HKH04",
+      "num": "124",
+      "model_name": "'32 Ford",
+      "series_name": "Retro Racers",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/HW-2023-124-1-HKxxx-32_Ford.png"
+    },
+    {
+      "id": 247,
+      "toy": "HKG42",
+      "num": "125",
+      "model_name": "Porsche 911 Carrera RS 2.7",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/88/Porsche911CarreraRS.jpg"
+    },
+    {
+      "id": 248,
+      "toy": "HKJ82",
+      "num": "125",
+      "model_name": "Porsche 911 Carrera RS 2.7 (2nd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/125_250_2.jpg"
+    },
+    {
+      "id": 249,
+      "toy": "HKH06",
+      "num": "126",
+      "model_name": "'71 Porsche 911",
+      "series_name": "Retro Racers",
+      "series_extra": "",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/%2771Porsche911.jpg"
+    },
+    {
+      "id": 250,
+      "toy": "HKH12",
+      "num": "127",
+      "model_name": "The Beatles Yellow Submarine",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/01/The_Beatles_Yellow_Submarine_2023_mainline.jpg"
+    },
+    {
+      "id": 251,
+      "toy": "HKH17",
+      "num": "128",
+      "model_name": "Bricking Speed",
+      "series_name": "Brick Rides",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Bricking_speed_2023.png"
+    },
+    {
+      "id": 252,
+      "toy": "HKJ89",
+      "num": "128",
+      "model_name": "Bricking Speed (2nd Color)",
+      "series_name": "Brick Rides",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 253,
+      "toy": "HKK97",
+      "num": "129",
+      "model_name": "Donut Drifter",
+      "series_name": "Sweet Rides",
+      "series_extra": "Treasure Hunt",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/HKK97.jpg"
+    },
+    {
+      "id": 254,
+      "toy": "HKH27",
+      "num": "130",
+      "model_name": "Hiway Hauler 2",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/00/HKH27.jpg"
+    },
+    {
+      "id": 255,
+      "toy": "HKK00",
+      "num": "130",
+      "model_name": "Hiway Hauler 2 (2nd Color)",
+      "series_name": "HW Haulers",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 256,
+      "toy": "HKH43",
+      "num": "131",
+      "model_name": "Dodge Viper RT/10",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/73/HKH43-LOOSE.jpg"
+    },
+    {
+      "id": 257,
+      "toy": "HKK11",
+      "num": "131",
+      "model_name": "Dodge Viper RT/10 (2nd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/131_250.jpg"
+    },
+    {
+      "id": 258,
+      "toy": "HKG60",
+      "num": "132",
+      "model_name": "'72 Stingray Convertible",
+      "series_name": "HW Roadsters",
+      "series_extra": "New for 2023!",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/%2772StingrayConvertible.jpg"
+    },
+    {
+      "id": 259,
+      "toy": "HKK12",
+      "num": "132",
+      "model_name": "'72 Stingray Convertible (2nd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "New for 2023!",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/132_250_2.jpg"
+    },
+    {
+      "id": 260,
+      "toy": "HKG41",
+      "num": "133",
+      "model_name": "Rollin' Solo",
+      "series_name": "HW Track Champs",
+      "series_extra": "New for 2023!",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Rollin%27Solo.jpg"
+    },
+    {
+      "id": 261,
+      "toy": "HKK41",
+      "num": "133",
+      "model_name": "Rollin' Solo (2nd Color)",
+      "series_name": "HW Track Champs",
+      "series_extra": "New for 2023!",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/133_250.jpg"
+    },
+    {
+      "id": 262,
+      "toy": "HKJ38",
+      "num": "134",
+      "model_name": "Renault Sport R.S. 01",
+      "series_name": "HW Turbo",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Renault_Sport_R.S._01_2023.jpg"
+    },
+    {
+      "id": 263,
+      "toy": "HKL21",
+      "num": "134",
+      "model_name": "Renault Sport R.S. 01",
+      "series_name": "HW Turbo",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Renault_sport_rs.jpg"
+    },
+    {
+      "id": 264,
+      "toy": "HKJ52",
+      "num": "135",
+      "model_name": "2017 Camaro ZL1",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/HKJ52.jpg"
+    },
+    {
+      "id": 265,
+      "toy": "HKG90",
+      "num": "136",
+      "model_name": "Solar Reflex",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HKG90.jpg"
+    },
+    {
+      "id": 266,
+      "toy": "HKG98",
+      "num": "137",
+      "model_name": "Batmobile",
+      "series_name": "Batman",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/HKG98.jpg"
+    },
+    {
+      "id": 267,
+      "toy": "HKJ75",
+      "num": "137",
+      "model_name": "Batmobile (2nd Color)",
+      "series_name": "Batman",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 268,
+      "toy": "HKG76",
+      "num": "138",
+      "model_name": "X-34 Landspeeder",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/66/138_250.jpg"
+    },
+    {
+      "id": 269,
+      "toy": "HKH23",
+      "num": "139",
+      "model_name": "'68 Corvette - Gas Monkey Garage",
+      "series_name": "HW Dream Garage",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/87/HKH23.jpg"
+    },
+    {
+      "id": 270,
+      "toy": "HKL10",
+      "num": "139",
+      "model_name": "'68 Corvette - Gas Monkey Garage",
+      "series_name": "HW Dream Garage",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/HW_-_Gas_Monkey_%2768_Corvette_%282023_-_HKL10%29.jpg"
+    },
+    {
+      "id": 271,
+      "toy": "HKH30",
+      "num": "140",
+      "model_name": "Mustang NHRA Funny Car",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/HKH30.jpg"
+    },
+    {
+      "id": 272,
+      "toy": "HKK04",
+      "num": "140",
+      "model_name": "Mustang NHRA Funny Car (2nd Color)",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 273,
+      "toy": "HKG49",
+      "num": "141",
+      "model_name": "Honda CB750 Café",
+      "series_name": "HW Moto",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/af/HondaCB750.jpg"
+    },
+    {
+      "id": 274,
+      "toy": "HKK34",
+      "num": "141",
+      "model_name": "Honda CB750 Café (2nd Color)",
+      "series_name": "HW Moto",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 275,
+      "toy": "HKH53",
+      "num": "142",
+      "model_name": "'72 Ford Ranchero",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/72FordRanchero2023ArtCars.jpg"
+    },
+    {
+      "id": 276,
+      "toy": "HKG44",
+      "num": "143",
+      "model_name": "Baja Bison T5",
+      "series_name": "HW Green Speed",
+      "series_extra": "New for 2023!",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/BajaBisonT5.jpg"
+    },
+    {
+      "id": 277,
+      "toy": "HKK23",
+      "num": "143",
+      "model_name": "Baja Bison T5 (2nd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "New for 2023!",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 278,
+      "toy": "HKH59",
+      "num": "144",
+      "model_name": "Fiat 500e",
+      "series_name": "HW Green Speed",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Fiat500e.jpg"
+    },
+    {
+      "id": 279,
+      "toy": "HKK24",
+      "num": "144",
+      "model_name": "Fiat 500e (2nd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 280,
+      "toy": "HKH63",
+      "num": "145",
+      "model_name": "'64 Nova Wagon Gasser",
+      "series_name": "HW Gassers",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/da/HW_-_%2764_Nova_Wagon_Gasser_%282023_-_HKH63%29.jpg"
+    },
+    {
+      "id": 281,
+      "toy": "HKL29",
+      "num": "145",
+      "model_name": "'64 Nova Wagon Gasser (2nd Color - Zamac)",
+      "series_name": "HW Gassers",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 282,
+      "toy": "HKL03",
+      "num": "146",
+      "model_name": "Rise 'N Climb",
+      "series_name": "HW Sports",
+      "series_extra": "Treasure Hunt",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/HKL03.jpg"
+    },
+    {
+      "id": 283,
+      "toy": "HKH99",
+      "num": "147",
+      "model_name": "Mazda REPU",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/17/MazdaREPU.jpg"
+    },
+    {
+      "id": 284,
+      "toy": "HKJ17",
+      "num": "148",
+      "model_name": "'88 Honda CR-X",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/41/148-2023.jpg"
+    },
+    {
+      "id": 285,
+      "toy": "HKK68",
+      "num": "148",
+      "model_name": "'88 Honda CR-X (2nd Color)",
+      "series_name": "HW J-Imports",
+      "series_extra": "",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 286,
+      "toy": "HKJ31",
+      "num": "149",
+      "model_name": "Porsche Taycan Turbo S",
+      "series_name": "Factory Fresh",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/df/149_-_Porsche_Taycan_Turbo_S.jpg"
+    },
+    {
+      "id": 287,
+      "toy": "HKL30",
+      "num": "149",
+      "model_name": "Porsche Taycan Turbo S (2nd Color - Zamac)",
+      "series_name": "Factory Fresh",
+      "series_extra": "Walmart Exclusive",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 288,
+      "toy": "HKG45",
+      "num": "150",
+      "model_name": "'89 Mercedes-Benz 560 SEC AMG",
+      "series_name": "HW Turbo",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/Mercedes-Benz560SECAMG.jpg"
+    },
+    {
+      "id": 289,
+      "toy": "HKK85",
+      "num": "150",
+      "model_name": "'89 Mercedes-Benz 560 SEC AMG (2nd Color)",
+      "series_name": "HW Turbo",
+      "series_extra": "New for 2023!",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Silver560.jpg"
+    },
+    {
+      "id": 290,
+      "toy": "HKJ54",
+      "num": "151",
+      "model_name": "'18 Dodge Challenger SRT Demon",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/59/HKJ54.jpg"
+    },
+    {
+      "id": 291,
+      "toy": "HKK90",
+      "num": "151",
+      "model_name": "'18 Dodge Challenger SRT Demon (2nd Color)",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 292,
+      "toy": "HKG88",
+      "num": "152",
+      "model_name": "'84 Audi Sport quattro",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/152_-_%2784_Audi_Sport_Quattro_%28Black%29.jpg"
+    },
+    {
+      "id": 293,
+      "toy": "HKJ66",
+      "num": "152",
+      "model_name": "'84 Audi Sport quattro (2nd Color)",
+      "series_name": "HW: The '80s",
+      "series_extra": "",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 294,
+      "toy": "HKG57",
+      "num": "153",
+      "model_name": "'70 Dodge Charger",
+      "series_name": "Tooned",
+      "series_extra": "New for 2023!",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/46/%27ToonedDodgeCharger.jpg"
+    },
+    {
+      "id": 295,
+      "toy": "HKH90",
+      "num": "154",
+      "model_name": "Corvette Grand Sport Roadster",
+      "series_name": "HW Screen Time",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/76/154_-_Corvette_Grand_Sport_Roadster.jpg"
+    },
+    {
+      "id": 296,
+      "toy": "HKH42",
+      "num": "155",
+      "model_name": "Glory Chaser",
+      "series_name": "HW Roadsters",
+      "series_extra": "",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/15/155_-_Glory_Chaser_%28Gulf%29.jpg"
+    },
+    {
+      "id": 297,
+      "toy": "HKL11",
+      "num": "155",
+      "model_name": "Glory Chaser",
+      "series_name": "HW Roadsters",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/33/Glory_chaser.jpg"
+    },
+    {
+      "id": 298,
+      "toy": "HKH44",
+      "num": "156",
+      "model_name": "BMW i8 Roadster",
+      "series_name": "HW Roadsters",
+      "series_extra": "New in Mainline",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/HKH44.jpg"
+    },
+    {
+      "id": 299,
+      "toy": "HKK13",
+      "num": "156",
+      "model_name": "BMW i8 Roadster (2nd Color)",
+      "series_name": "HW Roadsters",
+      "series_extra": "New in Mainline",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 300,
+      "toy": "HKH54",
+      "num": "157",
+      "model_name": "Cloak and Dagger",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/95/HKH54.jpg"
+    },
+    {
+      "id": 301,
+      "toy": "HKK19",
+      "num": "157",
+      "model_name": "Cloak and Dagger (2nd Color)",
+      "series_name": "HW Art Cars",
+      "series_extra": "",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 302,
+      "toy": "HKH60",
+      "num": "158",
+      "model_name": "Jaguar I-Pace eTrophy",
+      "series_name": "HW Green Speed",
+      "series_extra": "New in Mainline",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/09/JaguarI-Pace.jpg"
+    },
+    {
+      "id": 303,
+      "toy": "HKK25",
+      "num": "158",
+      "model_name": "Jaguar I-Pace eTrophy (2nd Color)",
+      "series_name": "HW Green Speed",
+      "series_extra": "New in Mainline",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 304,
+      "toy": "HKL33",
+      "num": "158",
+      "model_name": "Jaguar I-Pace eTrophy (3rd Color - ZAMAC)",
+      "series_name": "HW Green Speed",
+      "series_extra": "New in MainlineWalmart Exclusive",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 305,
+      "toy": "HKG50",
+      "num": "159",
+      "model_name": "HW-4-Trac",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "New for 2023!",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/16/HW-4-Trac.jpg"
+    },
+    {
+      "id": 306,
+      "toy": "HKK30",
+      "num": "159",
+      "model_name": "HW-4-Trac (2nd Color)",
+      "series_name": "HW 55 Race Team",
+      "series_extra": "New for 2023!",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 307,
+      "toy": "HKG43",
+      "num": "160",
+      "model_name": "Honda Super Cub Custom",
+      "series_name": "HW Moto",
+      "series_extra": "New for 2023!",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HondaSuperCubCustom.jpg"
+    },
+    {
+      "id": 308,
+      "toy": "",
+      "num": "160",
+      "model_name": "Honda Super Cub Custom (2nd Color)",
+      "series_name": "HW Moto",
+      "series_extra": "New for 2023!",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 309,
+      "toy": "HKH76",
+      "num": "161",
+      "model_name": "'70 Dodge Power Wagon",
+      "series_name": "Mud Studs",
+      "series_extra": "",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/161_-_%2770_Dodge_Power_Wagon.jpg"
+    },
+    {
+      "id": 310,
+      "toy": "HKH92",
+      "num": "162",
+      "model_name": "Cloud Cutter",
+      "series_name": "Sky Show",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/HKH92.jpg"
+    },
+    {
+      "id": 311,
+      "toy": "HKH93",
+      "num": "163",
+      "model_name": "Lamborghini Sián FKP 37",
+      "series_name": "HW Exotics",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/163_-_Lamborghini_Sian_FKP_37.jpg"
+    },
+    {
+      "id": 312,
+      "toy": "HKL05",
+      "num": "164",
+      "model_name": "Ducati 1199 Panigale",
+      "series_name": "Factory Fresh",
+      "series_extra": "Treasure Hunt",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/164_-_Ducati_1199_Panigale_%28TH%29.jpg"
+    },
+    {
+      "id": 313,
+      "toy": "HKJ39",
+      "num": "165",
+      "model_name": "Fast FeLion",
+      "series_name": "HW Turbo",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/FastFelion2023HWTurboMaroon.jpg"
+    },
+    {
+      "id": 314,
+      "toy": "HKK86",
+      "num": "165",
+      "model_name": "Fast FeLion (2nd Color)",
+      "series_name": "HW Turbo",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 315,
+      "toy": "HKJ56",
+      "num": "166",
+      "model_name": "'71 Plymouth GTX",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/56/166_-_%2771_Plymouth_GTX.jpg"
+    },
+    {
+      "id": 316,
+      "toy": "HKK91",
+      "num": "166",
+      "model_name": "'71 Plymouth GTX (2nd Color)",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 317,
+      "toy": "HKG87",
+      "num": "167",
+      "model_name": "'82 Toyota Supra",
+      "series_name": "HW: The '80s",
+      "series_extra": "New in Mainline",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/87/%2782ToyotaSupra.jpg"
+    },
+    {
+      "id": 318,
+      "toy": "HKL08",
+      "num": "167",
+      "model_name": "'82 Toyota Supra",
+      "series_name": "HW: The '80s",
+      "series_extra": "New in MainlineSuper Treasure Hunt",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/68/%2782_toyota_supra.jpg"
+    },
+    {
+      "id": 319,
+      "toy": "HKG94",
+      "num": "168",
+      "model_name": "Mad Splash",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HW_-_Mad_Splash_%282023_-_HKG94%29.jpg"
+    },
+    {
+      "id": 320,
+      "toy": "HKH00",
+      "num": "169",
+      "model_name": "Batman: The Animated Series",
+      "series_name": "Batman",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/20230529_100058.jpg"
+    },
+    {
+      "id": 321,
+      "toy": "HKH14",
+      "num": "170",
+      "model_name": "Tooned Twin Mill",
+      "series_name": "Tooned",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/09/170_-_Tooned_Twin_Mill.jpg"
+    },
+    {
+      "id": 322,
+      "toy": "HKG53",
+      "num": "171",
+      "model_name": "Rockin' Railer",
+      "series_name": "HW Drag Strip",
+      "series_extra": "New for 2023!",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Rockin%27Railer.jpg"
+    },
+    {
+      "id": 323,
+      "toy": "HKH33",
+      "num": "172",
+      "model_name": "Honda Civic Custom",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/HondaDragCivic.jpg"
+    },
+    {
+      "id": 324,
+      "toy": "HKL48",
+      "num": "172",
+      "model_name": "Honda Civic Custom (2nd Color)",
+      "series_name": "HW Drag Strip",
+      "series_extra": "Kroger Exclusive",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 325,
+      "toy": "HKG51",
+      "num": "173",
+      "model_name": "Volkswagen ID. Buzz",
+      "series_name": "HW Green Speed",
+      "series_extra": "New for 2023!",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/VolkswagenIDBuzz.jpg"
+    },
+    {
+      "id": 326,
+      "toy": "HKH64",
+      "num": "174",
+      "model_name": "'62 Corvette Gasser",
+      "series_name": "HW Gassers",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/93/174_-_%2762_Corvette_Gasser.jpg"
+    },
+    {
+      "id": 327,
+      "toy": "HKG47",
+      "num": "175",
+      "model_name": "Mitsubishi Pajero Evolution",
+      "series_name": "Mud Studs",
+      "series_extra": "New for 2023!",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/38/MitsubishiPajeroEvo.jpg"
+    },
+    {
+      "id": 328,
+      "toy": "HKK36",
+      "num": "175",
+      "model_name": "Mitsubishi Pajero Evolution (2nd Color)",
+      "series_name": "Mud Studs",
+      "series_extra": "New for 2023!",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 329,
+      "toy": "HKL02",
+      "num": "176",
+      "model_name": "'95 Jeep Cherokee",
+      "series_name": "Mud Studs",
+      "series_extra": "Treasure Hunt",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/56/20230529_100032.jpg"
+    },
+    {
+      "id": 330,
+      "toy": "HKH97",
+      "num": "177",
+      "model_name": "Porsche 911 GT3",
+      "series_name": "HW Exotics",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/177_-_Porsche_911_GT3.jpg"
+    },
+    {
+      "id": 331,
+      "toy": "HKG54",
+      "num": "178",
+      "model_name": "Celero GT",
+      "series_name": "HW Exotics",
+      "series_extra": "New for 2023!",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/CeleroGT.jpg"
+    },
+    {
+      "id": 332,
+      "toy": "",
+      "num": "178",
+      "model_name": "Celero GT (2nd Color)",
+      "series_name": "HW Exotics",
+      "series_extra": "New for 2023!",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 333,
+      "toy": "HKJ18",
+      "num": "179",
+      "model_name": "Lightnin' Bug",
+      "series_name": "HW Rescue",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 334,
+      "toy": "HKJ57",
+      "num": "180",
+      "model_name": "'84 Pontiac Firebird",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/30/%2784TransAm.jpg"
+    },
+    {
+      "id": 335,
+      "toy": "HKK92",
+      "num": "180",
+      "model_name": "'84 Pontiac Firebird (2nd Color)",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 336,
+      "toy": "HKG73",
+      "num": "181",
+      "model_name": "'87 Dodge D100",
+      "series_name": "Baja Blazers",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/181_250.jpg"
+    },
+    {
+      "id": 337,
+      "toy": "",
+      "num": "181",
+      "model_name": "'87 Dodge D100 (2nd Color)",
+      "series_name": "Baja Blazers",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 338,
+      "toy": "HKG74",
+      "num": "182",
+      "model_name": "Dune Crusher",
+      "series_name": "Baja Blazers",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/182_250.jpg"
+    },
+    {
+      "id": 339,
+      "toy": "HKG52",
+      "num": "183",
+      "model_name": "1956 Corvette",
+      "series_name": "HW Screen Time",
+      "series_extra": "New for 2023!",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/1956Corvette.jpg"
+    },
+    {
+      "id": 340,
+      "toy": "",
+      "num": "183",
+      "model_name": "1956 Corvette (2nd Color)",
+      "series_name": "HW Screen Time",
+      "series_extra": "New for 2023!",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 341,
+      "toy": "HKH13",
+      "num": "184",
+      "model_name": "2024 GMC Hummer EV",
+      "series_name": "HW Screen Time",
+      "series_extra": "New in Mainline",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2024GMCHummerEV.jpg"
+    },
+    {
+      "id": 342,
+      "toy": "HKG48",
+      "num": "185",
+      "model_name": "Alfa Romeo GTV6 3.0",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/98/AlfaRomeoGTV6.jpg"
+    },
+    {
+      "id": 343,
+      "toy": "HKJ84",
+      "num": "185",
+      "model_name": "Alfa Romeo GTV6 3.0 (2nd Color)",
+      "series_name": "Retro Racers",
+      "series_extra": "New for 2023!",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 344,
+      "toy": "HKH34",
+      "num": "186",
+      "model_name": "HW Poppa Wheelie",
+      "series_name": "HW Drag Strip",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/25/186_250.jpg"
+    },
+    {
+      "id": 345,
+      "toy": "HKH69",
+      "num": "187",
+      "model_name": "'17 Audi RS 6 Avant",
+      "series_name": "HW Wagons",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/90/187_-_%2717_Audi_RS_6_Avant.jpg"
+    },
+    {
+      "id": 346,
+      "toy": "HKH95",
+      "num": "188",
+      "model_name": "Koenigsegg Gemera",
+      "series_name": "HW Exotics",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 347,
+      "toy": "",
+      "num": "188",
+      "model_name": "Koenigsegg Gemera (2nd Color)",
+      "series_name": "HW Exotics",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 348,
+      "toy": "HKJ01",
+      "num": "189",
+      "model_name": "Power Panel",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/17/189_250.jpg"
+    },
+    {
+      "id": 349,
+      "toy": "HKG56",
+      "num": "190",
+      "model_name": "Limited Grip",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "New for 2023!",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/LimitedGrip.jpg"
+    },
+    {
+      "id": 350,
+      "toy": "",
+      "num": "190",
+      "model_name": "Limited Grip (2nd Color)",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "New for 2023!",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 351,
+      "toy": "HKJ06",
+      "num": "191",
+      "model_name": "'83 Chevy Silverado",
+      "series_name": "HW Slammed",
+      "series_extra": "",
+      "series_no": "1/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/83chevsilverado.jpg"
+    },
+    {
+      "id": 352,
+      "toy": "HKJ20",
+      "num": "192",
+      "model_name": "Rescue Duty",
+      "series_name": "HW Rescue",
+      "series_extra": "",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/192_250.jpg"
+    },
+    {
+      "id": 353,
+      "toy": "HKJ40",
+      "num": "193",
+      "model_name": "Corvette C7 Z06",
+      "series_name": "Then and Now",
+      "series_extra": "",
+      "series_no": "1/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/60/Corvette_C7_Z06_2023.jpg"
+    },
+    {
+      "id": 354,
+      "toy": "HKL07",
+      "num": "194",
+      "model_name": "Toyota Land Cruiser",
+      "series_name": "Then and Now",
+      "series_extra": "Treasure Hunt",
+      "series_no": "2/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/194_250.jpg"
+    },
+    {
+      "id": 355,
+      "toy": "HKJ50",
+      "num": "195",
+      "model_name": "'69 Shelby GT-500",
+      "series_name": "Muscle Mania",
+      "series_extra": "",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/Mustang_gt_500.jpg"
+    },
+    {
+      "id": 356,
+      "toy": "HKL22",
+      "num": "195",
+      "model_name": "'69 Shelby GT-500",
+      "series_name": "Muscle Mania",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 357,
+      "toy": "HKG61",
+      "num": "196",
+      "model_name": "'73 Jeep J10",
+      "series_name": "Baja Blazers",
+      "series_extra": "New for 2023!",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/%2773JeepJ10.jpg"
+    },
+    {
+      "id": 358,
+      "toy": "HKH35",
+      "num": "197",
+      "model_name": "'76 Chevy Chevette",
+      "series_name": "HW Drag Strip",
+      "series_extra": "New in Mainline",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 359,
+      "toy": "HKLxx",
+      "num": "197",
+      "model_name": "'76 Chevy Chevette (2nd Color)",
+      "series_name": "Red Edition",
+      "series_extra": "Target ExclusiveNew in Mainline",
+      "series_no": "?/12",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 360,
+      "toy": "HKK99",
+      "num": "198",
+      "model_name": "Madfast",
+      "series_name": "HW Drag Strip",
+      "series_extra": "Treasure Hunt",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/MadfastDragster.jpg"
+    },
+    {
+      "id": 361,
+      "toy": "HKH62",
+      "num": "199",
+      "model_name": "'65 Mercury Comet Cyclone",
+      "series_name": "HW Gassers",
+      "series_extra": "New in Mainline",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 362,
+      "toy": "HKL14",
+      "num": "199",
+      "model_name": "'65 Mercury Comet Cyclone",
+      "series_name": "HW Gassers",
+      "series_extra": "New in MainlineSuper Treasure Hunt",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 363,
+      "toy": "HKH71",
+      "num": "200",
+      "model_name": "Jack Hammer",
+      "series_name": "HW Wagons",
+      "series_extra": "New in Mainline",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 364,
+      "toy": "HKG55",
+      "num": "201",
+      "model_name": "Volvo XC40 Recharge",
+      "series_name": "Mud Studs",
+      "series_extra": "New for 2023!",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/VolvoXC40Recharge.jpg"
+    },
+    {
+      "id": 365,
+      "toy": "HKG63",
+      "num": "202",
+      "model_name": "Trouble Decker",
+      "series_name": "HW Metro",
+      "series_extra": "New for 2023!",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/d/db/TroubleDecker.jpg"
+    },
+    {
+      "id": 366,
+      "toy": "HKJ19",
+      "num": "203",
+      "model_name": "'10 Camaro SS",
+      "series_name": "HW Rescue",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 367,
+      "toy": "HKJ41",
+      "num": "204",
+      "model_name": "Toyota Land Cruiser 80",
+      "series_name": "Then and Now",
+      "series_extra": "",
+      "series_no": "3/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 368,
+      "toy": "HKJ43",
+      "num": "205",
+      "model_name": "'07 Ford Mustang",
+      "series_name": "Then and Now",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 369,
+      "toy": "HKG59",
+      "num": "206",
+      "model_name": "Mod Speeder",
+      "series_name": "Muscle Mania",
+      "series_extra": "New for 2023!",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/ModSpeeder.jpg"
+    },
+    {
+      "id": 370,
+      "toy": "HKG75",
+      "num": "207",
+      "model_name": "'20 Toyota Tacoma",
+      "series_name": "Baja Blazers",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/RAYSTacoma.jpg"
+    },
+    {
+      "id": 371,
+      "toy": "HKG46",
+      "num": "208",
+      "model_name": "Porsche 928S Safari",
+      "series_name": "Baja Blazers",
+      "series_extra": "New for 2023!",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Porsche928Safari.jpg"
+    },
+    {
+      "id": 372,
+      "toy": "HKK94",
+      "num": "210",
+      "model_name": "Time Shifter",
+      "series_name": "HW Metro",
+      "series_extra": "Treasure Hunt",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 373,
+      "toy": "HKG62",
+      "num": "211",
+      "model_name": "'94 Toyota Supra",
+      "series_name": "Tooned",
+      "series_extra": "New for 2023!",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/%27ToonedToyotaSupra.jpg"
+    },
+    {
+      "id": 374,
+      "toy": "HKH65",
+      "num": "212",
+      "model_name": "Pass'n Gasser",
+      "series_name": "HW Gassers",
+      "series_extra": "",
+      "series_no": "5/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 375,
+      "toy": "HKG64",
+      "num": "213",
+      "model_name": "Bugatti Bolide",
+      "series_name": "HW Exotics",
+      "series_extra": "New for 2023!",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/26/BugattiBolide.jpg"
+    },
+    {
+      "id": 376,
+      "toy": "HKJ03",
+      "num": "214",
+      "model_name": "Mighty K",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/2/24/RyulaK.jpg"
+    },
+    {
+      "id": 377,
+      "toy": "HKL18",
+      "num": "214",
+      "model_name": "Mighty K",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 378,
+      "toy": "HKJ21",
+      "num": "215",
+      "model_name": "2018 Honda Civic Type R",
+      "series_name": "HW Rescue",
+      "series_extra": "",
+      "series_no": "4/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/60/PoliceCivic.jpg"
+    },
+    {
+      "id": 379,
+      "toy": "HKJ42",
+      "num": "216",
+      "model_name": "'62 Corvette",
+      "series_name": "Then and Now",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 380,
+      "toy": "HKJ44",
+      "num": "217",
+      "model_name": "Tesla Roadster",
+      "series_name": "Then and Now",
+      "series_extra": "",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/2008TeslaRoadster.jpg"
+    },
+    {
+      "id": 381,
+      "toy": "HKG96",
+      "num": "219",
+      "model_name": "Brutonator",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "9/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Brutonator.jpg"
+    },
+    {
+      "id": 382,
+      "toy": "HKG95",
+      "num": "220",
+      "model_name": "Haul-O-Gram",
+      "series_name": "HW Metro",
+      "series_extra": "",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/1/19/HaulOGram.jpg"
+    },
+    {
+      "id": 383,
+      "toy": "HKK96",
+      "num": "221",
+      "model_name": "Tooned Volkswagen Golf Mk1",
+      "series_name": "Tooned",
+      "series_extra": "Treasure Hunt",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 384,
+      "toy": "HKH70",
+      "num": "222",
+      "model_name": "'64 Chevy Nova Wagon",
+      "series_name": "HW Wagons",
+      "series_extra": "",
+      "series_no": "3/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 385,
+      "toy": "HKH96",
+      "num": "223",
+      "model_name": "Porsche 935",
+      "series_name": "HW Exotics",
+      "series_extra": "",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 386,
+      "toy": "HKL17",
+      "num": "223",
+      "model_name": "Porsche 935",
+      "series_name": "HW Exotics",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Porsche935-75.jpg"
+    },
+    {
+      "id": 387,
+      "toy": "HKH94",
+      "num": "224",
+      "model_name": "Lamborghini Reventón",
+      "series_name": "HW Exotics",
+      "series_extra": "",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 388,
+      "toy": "HKJ04",
+      "num": "225",
+      "model_name": "Ford Bronco R",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "New in Mainline",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/BorlaBronco.jpg"
+    },
+    {
+      "id": 389,
+      "toy": "HKL34",
+      "num": "225",
+      "model_name": "Ford Bronco R (2nd Color - Zamac)",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "New in MainlineWalmart Exclusive",
+      "series_no": "8/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 390,
+      "toy": "HKJ05",
+      "num": "227",
+      "model_name": "Land Rover Defender 90",
+      "series_name": "HW Hot Trucks",
+      "series_extra": "",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/LRDefender90B.jpg"
+    },
+    {
+      "id": 391,
+      "toy": "HKG68",
+      "num": "228",
+      "model_name": "Custom '68 Camaro",
+      "series_name": "HW Slammed",
+      "series_extra": "New for 2023!",
+      "series_no": "2/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/DieselpunkCamaro.jpg"
+    },
+    {
+      "id": 392,
+      "toy": "HKJ22",
+      "num": "229",
+      "model_name": "H2GO",
+      "series_name": "HW Rescue",
+      "series_extra": "",
+      "series_no": "5/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 393,
+      "toy": "HKG67",
+      "num": "230",
+      "model_name": "Surf Duty",
+      "series_name": "HW Rescue",
+      "series_extra": "New for 2023!",
+      "series_no": "6/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/8/87/SurfDuty.jpg"
+    },
+    {
+      "id": 394,
+      "toy": "HKJ45",
+      "num": "231",
+      "model_name": "'20 Dodge Charger Hellcat",
+      "series_name": "Then and Now",
+      "series_extra": "New in Mainline",
+      "series_no": "7/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 395,
+      "toy": "",
+      "num": "235",
+      "model_name": "Datsun Bluebird Wagon (510)",
+      "series_name": "HW Wagons",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 396,
+      "toy": "HKL15",
+      "num": "235",
+      "model_name": "Datsun Bluebird Wagon (510)",
+      "series_name": "HW Wagons",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 397,
+      "toy": "HKG71",
+      "num": "236",
+      "model_name": "'92 Dodge Viper RT/10",
+      "series_name": "HW Exotics",
+      "series_extra": "New for 2023!",
+      "series_no": "10/10",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 398,
+      "toy": "",
+      "num": "245",
+      "model_name": "Volvo 240 Drift Wagon",
+      "series_name": "HW Slammed",
+      "series_extra": "",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    },
+    {
+      "id": 399,
+      "toy": "HKL19",
+      "num": "245",
+      "model_name": "Volvo 240 Drift Wagon",
+      "series_name": "HW Slammed",
+      "series_extra": "Super Treasure Hunt",
+      "series_no": "4/5",
+      "photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+    }
+  ]
+}

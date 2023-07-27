@@ -1,0 +1,77 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url("/images/HW_06.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.container .card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -300px;
+    border: solid 1px #fff;
+    border-radius: 12px;
+    border: 3px solid black;
+    height: 800px;
+    width: 600px;
+    padding: 1.5rem;
+    background: white;
+    text-align: center;
+}
+
+
+#button-load {
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    width: 300px;
+    height: 3rem;
+    margin-left: -150px;
+    background-color: hsl(221, 84%, 45%);
+    border-radius: 8px;
+    border: 2px solid black;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+#hwName {
+    font-size: 20pt;
+    font-weight: bolder;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    text-align: center;
+    margin-left: -25%;
+    margin-right: 25%;
+    width: 50%;
+}
+
+#hwImage {
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    width: 60%;
+    height: auto;
+    max-height: 65%;
+    margin-left: -180px;
+}
